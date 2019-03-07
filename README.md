@@ -19,8 +19,8 @@ There are four functions in this file
 
 **Example:**
 
->`import parser2json`
-`'''test for dat2json'''`
-`keyList = ["1","2","3"]`
-`parser2json.dat2json("test_dat2json.dat",keyList,",")`
+>`import parser2json`  
+`'''test for dat2json'''`  
+`keyList = ["1","2","3"]`  
+`parser2json.dat2json("test_dat2json.dat",keyList,",")`  
 
