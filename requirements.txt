@@ -1,0 +1,2 @@
+defusedexpat==0.4
+PyYAML==3.13

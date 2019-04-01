@@ -1,6 +1,6 @@
-##Parser2json
-**Parser2json** is a file parser to convert configure file to json file
-Such as **.xml, .dat, .ini, .config, .yaml** 
+## Parser2json  
+**Parser2json** is a file parser to convert configure file to json file  
+Such as **.xml, .dat, .ini, .config, .yaml**   
 
 
 
@@ -11,13 +11,13 @@ There are four functions in this file
 - `ini2json(iniFile_Location)`convert .ini files to .json files
 - `yaml2json(yamlFile_Location)`convert .yaml files to .json files
 
-**module [yaml](https://github.com/yaml/pyyaml) is needed**
+**module [yaml](https://github.com/yaml/pyyaml) is needed**  
 `pip install pyyaml`
 
 
-*The **xml_config2json** function used [xmltodist](https://github.com/martinblech/xmltodict) from gayhub*
+*The **xml_config2json** function used [xmltodist](https://github.com/martinblech/xmltodict) from gayhub*  
 
-**Example:**
+**Example:**  
 
 >`import parser2json`  
 `'''test for dat2json'''`  
